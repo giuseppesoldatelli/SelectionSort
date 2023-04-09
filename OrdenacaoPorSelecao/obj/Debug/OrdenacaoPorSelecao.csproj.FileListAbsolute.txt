@@ -1,0 +1,8 @@
+D:\repos\OrdenacaoPorSelecao\OrdenacaoPorSelecao\bin\Debug\OrdenacaoPorSelecao.exe.config
+D:\repos\OrdenacaoPorSelecao\OrdenacaoPorSelecao\bin\Debug\OrdenacaoPorSelecao.exe
+D:\repos\OrdenacaoPorSelecao\OrdenacaoPorSelecao\bin\Debug\OrdenacaoPorSelecao.pdb
+D:\repos\OrdenacaoPorSelecao\OrdenacaoPorSelecao\obj\Debug\OrdenacaoPorSelecao.csproj.AssemblyReference.cache
+D:\repos\OrdenacaoPorSelecao\OrdenacaoPorSelecao\obj\Debug\OrdenacaoPorSelecao.csproj.SuggestedBindingRedirects.cache
+D:\repos\OrdenacaoPorSelecao\OrdenacaoPorSelecao\obj\Debug\OrdenacaoPorSelecao.csproj.CoreCompileInputs.cache
+D:\repos\OrdenacaoPorSelecao\OrdenacaoPorSelecao\obj\Debug\OrdenacaoPorSelecao.exe
+D:\repos\OrdenacaoPorSelecao\OrdenacaoPorSelecao\obj\Debug\OrdenacaoPorSelecao.pdb
